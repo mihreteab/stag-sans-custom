@@ -1,0 +1,3 @@
+Windows 10
+Unzip the folder containing the fonts first. Fonts cannot be installed if they are zipped.
+Right click on the font file and select Install.
